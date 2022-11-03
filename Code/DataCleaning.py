@@ -115,8 +115,6 @@ treatment_recovery = treatment_with_treatment_num
 
 cleaned_economic_and_demographic_IAPT_data = treatment_recovery.select("binary_recovery","indices_converted","binary_full_time_employment_status","binary_unemployment_status","binary_benefits_status",  "binary_job_seeker_allowance_status", "binary_selfemployment_status", "binary_sickpay_status", "six_or_more_treatment_sessions", "six_week_wait")
 
-#"days_passed", "a.CareContact_Count"
-
 # COMMAND ----------
 
 
