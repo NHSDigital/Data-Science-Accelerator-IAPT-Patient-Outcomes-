@@ -1,0 +1,13 @@
+This code runs on a Databricks cluster (Spark version 2.4.5) with the following packages:
+Packages used in the project:
+
+Pyspark
+Sklearn
+Datetime
+Pandas
+Numpy
+Math
+Functools
+Statsmodels
+ipykernel
+unittest
